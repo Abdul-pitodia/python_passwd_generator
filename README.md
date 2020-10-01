@@ -28,10 +28,10 @@ cd python_passwd_generator
 ```
 
 # 2. Usage:
-<p> i. Run the python file (.py) </p>
+<p> i. Run the python file (Pass_Gen_Python_Project.py) </p>
 
 <p> Or type the command in terminal/command prompt: </p>
 
 ```
-python .py
+python Pass_Gen_Python_Project.py
 ```
